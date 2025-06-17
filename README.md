@@ -60,9 +60,6 @@
 </table>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishisulakhe&show_icons=true&hide_title=true&theme=midnight-blue&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="Rishi's GitHub Stats"  />
-</p>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisulakhe&layout=compact&theme=radical)"
 </p>
 
