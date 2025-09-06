@@ -6,7 +6,7 @@
 
 - **🎓 Google Summer of Code 2025 Contributor** with [cBioPortal](https://github.com/cBioPortal), working on visualizing Variant Allele Frequency on Plots tab and Oncoprint ([Project Details](https://gist.github.com/rishisulakhe/27aefc35bf879c58ab216179eba9d45a))
 
-- **🏆 2025 Shubhra Kar LiFT Scholarship Recipient** - Selected by The Linux Foundation for outstanding contributions to open source and leadership potential
+- **🏆 2025 Shubhra Kar LiFT Scholarship Recipient** - Selected by The Linux Foundation for contributions to open source
 
 - **👨‍💻 CC Lead** at Computer Coding club [MNNIT Allahabad](https://github.com/CC-MNNIT) - Leading a community of passionate developers and organizing coding competitions, workshops, and tech events
 
