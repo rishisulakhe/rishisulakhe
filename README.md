@@ -4,7 +4,7 @@
 
 - **Google Summer of Code 2025 Contributor** with [cBioPortal](https://github.com/cBioPortal), working on visualizing Variant Allele Frequency on Plots tab and Oncoprint ([Project Details](https://gist.github.com/rishisulakhe/27aefc35bf879c58ab216179eba9d45a))
 
-- Significant contributions to [Gitlab](https://gitlab.com/rishisulake), [cBioPortal](https://github.com/cBioPortal), and [Gumroad](https://github.com/antiwork/gumroad)
+- Significant contributions to [Gitlab](https://gitlab.com/rishisulakhe), [cBioPortal](https://github.com/cBioPortal), and [Gumroad](https://github.com/antiwork/gumroad)
 
 - **2025 Shubhra Kar LiFT Scholarship Recipient** - Selected by The Linux Foundation 
 
