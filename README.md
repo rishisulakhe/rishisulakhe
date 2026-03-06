@@ -8,12 +8,11 @@
 
 - **🏆 2025 Shubhra Kar LiFT Scholarship Recipient** - Selected by The Linux Foundation 
 
-- **👨‍💻 Coding Club Lead** at [MNNIT Allahabad](https://github.com/CC-MNNIT) - Leading a community of passionate developers and organizing coding competitions, workshops, and tech events
+- **👨‍💻 Coding Club Representative** at [MNNIT Allahabad](https://github.com/CC-MNNIT) - Leading a community of passionate developers and organizing coding competitions, workshops, and tech events
 
 - **🛠️ Full Stack Developer** - Building scalable applications using the MERN stack (MongoDB, Express.js, React, Node.js) with modern development practices
 
-- **☁️ DevOps Enthusiast** - Experienced in containerization, CI/CD pipelines, and cloud deployment strategies for robust application delivery
-
+- **☁️ DevOps Developer** - Experienced in containerization, CI/CD pipelines, and cloud deployment strategies for robust application delivery
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
