@@ -7,12 +7,6 @@ I build **AI-native developer tools, open-source infrastructure, and engineering
 - Full Stack Developer - Experienced in TypeScript, React, Golang, PostgreSQL, NodeJS, NextJS, Tailwind, Hono
 - DevOps Developer - Experienced in Linux, Git, Docker, CI/CD pipelines, AWS, Kubernetes,Prometheus, Grafana
 
-## Projects :
-- [ShipWright](https://github.com/rishisulakhe/shipwright) - A centralized multi-host Docker management dashboard.
-- [Alpha](https://github.com/rishisulakhe/alpha) - A minimal coding agent inspired by Pi. 
-- [Browser Loop](https://github.com/rishisulakhe/browser-loop) - Graphical AI workflow runner for browser inspired by n8n. Build and visualize complex AI browser workflows with ease.
-- [Deployit](https://github.com/rishisulakhe/deployit) - Deploy your frontend effortlessly
-- [Metaverse-2D](https://github.com/rishisulakhe/metaverse-2d) - A real-time multiplayer 2D virtual office built with Phaser 3, React, and WebSockets
 
 ## Showcase :)
 
